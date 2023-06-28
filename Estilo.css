@@ -16,7 +16,7 @@ html, body {
     width: max-content;
     height: max-content;
     align-items: center;
-    background-image: url(../Imagens/rose-petals.svg);
+    background-image: url(rose-petals.svg);
     background-size: cover;   
 }
 
@@ -218,11 +218,11 @@ a {
 }
 
 @keyframes troca_figura {
-    0% { background-image: url(../Imagens/loja1.jpg);  }
-    25% { background-image: url(../Imagens/loja2.jpg);  }
-    50% { background-image: url(../Imagens/loja3.jpg);  }
-    75% { background-image: url(../Imagens/loja4.jpg);  }
-    100% { background-image: url(../Imagens/loja1.jpg);  }
+    0% { background-image: url(loja1.jpg);  }
+    25% { background-image: url(loja2.jpg);  }
+    50% { background-image: url(loja3.jpg);  }
+    75% { background-image: url(loja4.jpg);  }
+    100% { background-image: url(loja1.jpg);  }
 }
 h3 .texto {
     margin-top: 10%;
@@ -259,7 +259,7 @@ h3 .texto {
     color:  rgb(20,22,31);
     border-radius: 4px;
     width: fit-content;
-    background-image: url(../Imagens/acordo.png);
+    background-image: url(acordo.png);
     background-size: 20%;
     background-repeat: no-repeat;
     padding:1% 3% 7% 22% ;
